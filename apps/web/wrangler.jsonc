@@ -33,8 +33,8 @@
 	 * https://developers.cloudflare.com/workers/configuration/secrets/
 	 */
 	"vars": {
-		"PUBLIC_HANDLE": "blento.app",
-		"PUBLIC_IS_SELFHOSTED": "",
+		"PUBLIC_HANDLE": "phoenix.omg.lol",
+		"PUBLIC_IS_SELFHOSTED": "true",
 		"PUBLIC_DOMAIN": "https://blento.app",
 		"PUBLIC_GIPHY_API_TOKEN": "ltXijv1bkNPrEgnpJ0tIdLWXjnAeE7bL"
 	},
