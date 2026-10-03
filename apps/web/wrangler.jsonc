@@ -42,8 +42,8 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "blento-v3",
-			"database_id": "83e7be08-8503-4b54-9f73-0bac105761b5",
+			"database_name": "blento-db",
+			"database_id": "61c7084b-7982-49d8-8ece-75d6e3a75875",
 			"remote": false
 		}
 	],
