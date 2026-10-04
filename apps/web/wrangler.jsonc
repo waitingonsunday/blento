@@ -40,7 +40,6 @@
 	},
 
 "kv_namespaces": [
-		},
 		{
 			"binding": "OAUTH_SESSIONS",
 			"id": "6c9ead6e402b4de396b780bdee760119"
@@ -89,11 +88,7 @@
 				"PUBLIC_GIPHY_API_TOKEN": "ltXijv1bkNPrEgnpJ0tIdLWXjnAeE7bL"
 			},
 			"routes": [{ "pattern": "staging.blento.app", "custom_domain": true }],
-			"kv_namespaces": [
-				{ "binding": "CUSTOM_DOMAINS", "id": "f449b3b5c8a349478405e2c04ed265f0" },
-				{ "binding": "OAUTH_SESSIONS", "id": "4d872b4630a042d69ecd63f87d6b2094" },
-				{ "binding": "OAUTH_STATES", "id": "c644b498d4af4c5892b3106d52c7760a" }
-			],
+		
 			"d1_databases": [
 				{
 					"binding": "DB",
