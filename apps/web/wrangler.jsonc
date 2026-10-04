@@ -43,14 +43,17 @@
 		{
 			"binding": "CUSTOM_DOMAINS",
 			"id": "f449b3b5c8a349478405e2c04ed265f0"
+			"remote": true
 		},
 		{
 			"binding": "OAUTH_SESSIONS",
 			"id": "4d872b4630a042d69ecd63f87d6b2094"
+			"remote": true
 		},
 		{
 			"binding": "OAUTH_STATES",
 			"id": "c644b498d4af4c5892b3106d52c7760a"
+			"remote": true
 		}
 	],
 	
